@@ -10,7 +10,7 @@ Top technical highlights:
 
 Main studies:
  - Le Wagon 2024 => Bootcamp in Data Science and Artificial Intelligence
- - Technical University Berlin 2020 => MSc in Industrial Engineering with focus on Logistics and Supply Chain Management
+ - Technical University Berlin 2021 => MSc in Industrial Engineering with focus on Logistics and Supply Chain Management
  - Karlsruhe Institute of Technology 2017 => BSc Industrial Engineering
 
 
