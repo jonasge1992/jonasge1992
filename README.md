@@ -3,9 +3,9 @@ Hi and welcome!
 I am a former supply chain lead with passion for IT, Programming, Data Science and Artificial Intelligence.
 
 Top technical highlights:
- - :clock: => Built a time series forecasting model for supermarket stores on a product level by using a range of models to determine the lowest error for each product to achieve the lowest error (see repository Walmart)
+ - :chart_with_upwards_trend: => Built a time series forecasting model for supermarket stores on a product level by using a range of models to determine the lowest error for each product to achieve the lowest error (see repository Walmart)
  - :apple: => Built a purchasing and replenishment tool at my previous company which took the forecast, stock levels and shelf life of each product to determine the correct buying decision
- - :rocket: => Automated many different day to day processes with Google Apps Script, e.g. such as automated delivery note scanning with optical character recognition (OCR) based on a picture of the delivery note that was sent to a specific email and this information was used to signal the delivery of goods
+ - :robot: => Automated many different day to day processes with Google Apps Script, e.g. such as automated delivery note scanning with optical character recognition (OCR) based on a picture of the delivery note that was sent to a specific email and this information was used to signal the delivery of goods
 
 
 Main studies:
