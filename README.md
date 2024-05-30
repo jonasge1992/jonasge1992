@@ -1,4 +1,4 @@
-Hi and welcome!
+<h1 align="center">Hi 👋, I'm Jonas</h1>
 
 I am a former supply chain lead with passion for IT, Programming, Data Science and Artificial Intelligence.
 
