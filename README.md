@@ -5,7 +5,7 @@ I am a former supply chain lead with passion for IT, Programming, Data Science a
 Top technical highlights:
  - :chart_with_upwards_trend: => Built a time series forecasting model for supermarket stores on a product level by using a range of models to determine the lowest error for each product to achieve the lowest error (see repository walmart)
  - :apple: => Built a purchasing and replenishment tool at my previous company which took the forecast, stock levels and shelf life of each product to determine the correct buying decision
- - :robot: => Built an Autogen multi-agent-system with the OpenAi API that fully automatically searches the internet for desired companies and roles and returns current open positions (see repository jobsearcher)
+ - :robot: => Built an Autogen multi-agent-system with the OpenAI API that fully automatically searches the internet for desired companies and roles and returns current open positions (see repository jobsearcher)
  - 🔍 => Built a convolutional neural network (CNN) to classify thirty different types of household materials for waste and built it into an app. See repository Waste_classifier. App can be accessed here https://wasteclassifier.streamlit.app/
 
 
