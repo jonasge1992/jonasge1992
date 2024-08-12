@@ -22,7 +22,7 @@ Main studies:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
   <a href="https://x.com/jonasge1992" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/60/X_logo.png" alt="X Profile" height="30" width="30" />
+    <img align="center" src="https://logos-world.net/wp-content/uploads/2023/08/X-Logo.png" alt="X Profile" height="30" width="30" />
   </a>
 </p>
 
