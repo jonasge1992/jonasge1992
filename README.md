@@ -7,7 +7,7 @@ Top technical highlights:
  - :apple: => Built a purchasing and replenishment tool at my previous company which took the forecast, stock levels and shelf life of each product to determine the correct buying decision
  - :robot: => Built an Autogen multi-agent-system with the OpenAI API that fully automatically searches the internet for desired companies and roles and returns current open positions (see repository jobsearcher)
  - 🔍 => Built a convolutional neural network (CNN) to classify thirty different types of household materials for waste and built it into an app (see repository Waste_classifier)
- - 👩🏻‍⚕️ => Built an AI therapist chatbot on Telegram that speaks to its patients in German and accepts text, voice, video and picture messages as well as URLs and responds in text and voice (see repository ai_therapist_german) link to test it on Telegram: https://t.me/therapiechatbot
+ - 👩🏻‍⚕️ => Built an AI therapist chatbot on Telegram that speaks to its patients in German and accepts text, voice, video and picture messages as well as URLs and responds in text and voice (see repository ai_therapist_german).
  - :spider: => Built an online AI assistant for finding local events near you (only works for Berlin) - by scraping the web for events on a daily basis and having a vector database that uses your query to find similar results. https://whattodotoday.io/
 
 
